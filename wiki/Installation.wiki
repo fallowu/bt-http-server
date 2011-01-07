@@ -7,12 +7,6 @@ This page contains information on how to compile and run bt-http-server.
 Please note that you need lbluetooth library.
 
 = Procedure =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-
 To run the system do the following steps:
  * *1.Compile and Run:*
       Choose one of the alternatives for this step and proceed to next.
